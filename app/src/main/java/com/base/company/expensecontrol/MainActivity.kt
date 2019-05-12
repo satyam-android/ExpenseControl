@@ -93,5 +93,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         var ver:String="First Commit"
         var ver2:String="Second Commit"
         var ver3:String="Third Commit"
+        var ver4:String="Forth Commit"
     }
 }
