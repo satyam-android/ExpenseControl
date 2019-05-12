@@ -91,5 +91,6 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
     fun gitTest(){
         var ver:String="First Commit"
+        var ver2:String="Second Commit"
     }
 }
