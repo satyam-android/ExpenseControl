@@ -96,6 +96,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
     fun gitBranch() {
         var ver: String = "Branch First Commit"
+        var ver1: String = "Branch Second Commit on origin"
 
     }
 }
