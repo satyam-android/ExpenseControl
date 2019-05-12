@@ -92,6 +92,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     fun gitTest(){
         var ver:String="First Commit"
         var ver2:String="Second Commit"
-        var ver3: String = "Third Commit"
+    }
+
+    fun gitBranch() {
+        var ver: String = "Branch First Commit"
+        var ver1: String = "Branch Second Commit on origin"
+
     }
 }
